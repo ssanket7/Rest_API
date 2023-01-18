@@ -15,7 +15,7 @@ app.get('/listUsers', function(req, res){
 var user = {
     "user4": {
         "name": "mohit",
-        "password": "password4",
+        "password": "shrusti",
         "profession": "teacher",
         "id": 4,
     }
